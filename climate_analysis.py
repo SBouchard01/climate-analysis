@@ -1,4 +1,4 @@
-""" Climate Analysis Tools 2"""
+""" Climate Analysis Tools"""
 
 import sys
 import temp_conversion
